@@ -1,3 +1,6 @@
+/*
+Run this snippet in the console of a browser in a Transaction record.  This will allow the require to work and perform the conversion to the Suitelet.
+*/
 console.clear();
 
 require(['N/record', 'N/search'], function(record, search) {
